@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital@1&family=Titillium+Web:wght@600&display=swap');
+
+
+.paper{
+  background-color: #62929e;
+  max-width: 960px;
+  margin: 30px auto 10px auto;
+  padding: 20px;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: #E3E3DD;
+}
+
+body{
+ background-color: #546a7b;
+}
+h1,h2,h3{
+  font-family: 'Amaranth', sans-serif;
+  color: #0000E0;
+}
+
+
+*{
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0;
+  font-weight: 900;
+
+}
+
+h2{
+
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+main{
+   border-top-color: #FDFDFF;
+   border-top-style: solid;
+   border-top-width: 5px;
+}
+
+section{
+  background-color: #E3E3DD;
+  padding: 10px;
+  margin: 10px
+}
+
+h3{
+  font-size: 25px;
+  text-align: center;
+
+}
+p{
+  font-size: 15;
+  text-align: center;
+
+}
+
+.dish-title{
+  text-align: center;
+  font-weight:700;
+  margin: 0;
+
+}
+
+.dish-description{
+  text-align: center;
+  font-weight:500;
+    margin: 0;
+}
+
+.dish-price{
+  text-align: center;
+  font-weight:1000;
+    margin: 0;
+}
+.dish{
+  margin-bottom: 20px;
+}
