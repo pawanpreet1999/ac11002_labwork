@@ -1,0 +1,53 @@
+.red_background
+{
+    background-color: red;
+}
+.green_background
+{
+    background-color: green;
+}
+.blue_background
+{
+    background-color:blue;
+}
+
+
+
+
+
+
+
+.square{
+    background-color: rgb(43, 146, 103);
+    height: 150px;
+    width: 150px;
+    border:3px solid black;
+    margin: 20px;
+    float: left;
+  }
+  
+  div#square1{
+      background-color: rgb(75, 70, 70);
+  }
+  div#square2{
+      background-color: #ff9933;
+  }
+  div#square3{
+      background-color: yellow;
+  }
+  div#square4{
+      background-color: yellowgreen;
+  }
+  div#square5{
+      background-color: green;
+  }
+  div#square6{
+      background-color: #66ffff;
+  }
+  div#square7{
+      background-color: skyblue;
+  }
+  div#square8{
+      background-color: blue;
+  }
+  
