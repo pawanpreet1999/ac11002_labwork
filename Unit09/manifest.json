@@ -1,0 +1,8 @@
+{
+    "name": "Weather App",
+    "description": "Lets do weather",
+    "background_color": "red",
+    "orientation": "landscape",
+    "display": "fullscreen"
+    
+  }
